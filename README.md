@@ -18,6 +18,7 @@
 - 🗑️ **一键清理**：支持删除所有多余文件或一键清理高风险项，自动记录删除日志（`deleted_files_log.txt`）。
 
 ![img](/screenshot/demo0.png)
+![img](/screenshot/demo1.png)
 
 ## 📚 环境依赖
 - **Python 3.10+**
