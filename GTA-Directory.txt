@@ -1,0 +1,510 @@
+Grand Theft Auto V Enhanced 
+|   amd_ags_x64.dll
+|   amd_fidelityfx_dx12.dll
+|   bink2w64.dll
+|   common.rpf
+|   dstorage.dll
+|   dstoragecore.dll
+|   fvad.dll
+|   GFSDK_Aftermath_Lib.x64.dll
+|   GTA5_Enhanced.exe
+|   GTA5_Enhanced_BE.exe
+|   installscript.vdf
+|   installscript_sdk.vdf
+|   libcurl.dll
+|   libtox.dll
+|   nvngx_dlss.dll
+|   nvngx_dlssg.dll
+|   oo2core_5_win64.dll
+|   opus.dll
+|   opusenc.dll
+|   PlayGTAV.exe
+|   rpf.cache
+|   sl.common.dll
+|   sl.dlss.dll
+|   sl.dlss_g.dll
+|   sl.interposer.dll
+|   sl.pcl.dll
+|   sl.reflex.dll
+|   steam_api64.dll
+|   title.rgl
+|   x64a.rpf
+|   x64b.rpf
+|   x64c.rpf
+|   x64d.rpf
+|   x64e.rpf
+|   x64f.rpf
+|   x64g.rpf
+|   x64h.rpf
+|   x64i.rpf
+|   x64j.rpf
+|   x64k.rpf
+|   x64l.rpf
+|   x64m.rpf
+|   x64n.rpf
+|   x64o.rpf
+|   x64p.rpf
+|   x64q.rpf
+|   x64r.rpf
+|   x64s.rpf
+|   x64t.rpf
+|   x64u.rpf
+|   x64v.rpf
+|   x64w.rpf
+|   XCurl.dll
+|   zlib1.dll
+|   
++---BattlEye
+|   |   BEClient_x64.cfg
+|   |   BEClient_x64.dll
+|   |   BELauncher.ini
+|   |   BEServer_x64.cfg
+|   |   BEServer_x64.dll
+|   |   BEService_x64.exe
+|   |   Licenses.txt
+|   |   
+|   +---EULA
+|   |       cs.txt
+|   |       de.txt
+|   |       en.txt
+|   |       es.txt
+|   |       fr.txt
+|   |       it.txt
+|   |       ja.txt
+|   |       ko.txt
+|   |       nl.txt
+|   |       pl.txt
+|   |       pt.txt
+|   |       ru.txt
+|   |       tr.txt
+|   |       zh-TW.txt
+|   |       zh.txt
+|   |       
+|   +---Privacy
+|   |       cs.txt
+|   |       de.txt
+|   |       en.txt
+|   |       es.txt
+|   |       fr.txt
+|   |       it.txt
+|   |       ja.txt
+|   |       ko.txt
+|   |       nl.txt
+|   |       pl.txt
+|   |       pt.txt
+|   |       ru.txt
+|   |       tr.txt
+|   |       zh-TW.txt
+|   |       zh.txt
+|   |       
+|   \---Text
+|           cs.ini
+|           de.ini
+|           en.ini
+|           es.ini
+|           fr.ini
+|           it.ini
+|           ja.ini
+|           ko.ini
+|           nl.ini
+|           pl.ini
+|           pt.ini
+|           ru.ini
+|           tr.ini
+|           zh-TW.ini
+|           zh.ini
+|           
++---D3D12-REDIST
+|       D3D12Core.dll
+|       d3d12SDKLayers.dll
+|       
++---Redistributables
+|       Rockstar-Games-Launcher.exe
+|       Social-Club-Setup.exe
+|       
++---update
+|   |   update.rpf
+|   |   update2.rpf
+|   |   
+|   \---x64
+|       |   metadata.dat
+|       |   
+|       +---data
+|       |   \---errorcodes
+|       |           american.txt
+|       |           chinese.txt
+|       |           chinesesimp.txt
+|       |           french.txt
+|       |           german.txt
+|       |           GLOBAL.txt
+|       |           italian.txt
+|       |           japanese.txt
+|       |           korean.txt
+|       |           mexican.txt
+|       |           polish.txt
+|       |           portuguese.txt
+|       |           russian.txt
+|       |           spanish.txt
+|       |           
+|       \---dlcpacks
+|           +---mp2023_01
+|           |       dlc.rpf
+|           |       
+|           +---mp2023_01_g9ec
+|           |       dlc.rpf
+|           |       
+|           +---mp2023_02
+|           |       dlc.rpf
+|           |       
+|           +---mp2023_02_g9ec
+|           |       dlc.rpf
+|           |       
+|           +---mp2024_01
+|           |       dlc.rpf
+|           |       
+|           +---mp2024_01_g9ec
+|           |       dlc.rpf
+|           |       
+|           +---mp2024_02
+|           |       dlc.rpf
+|           |       
+|           +---mp2024_02_G9EC
+|           |       dlc.rpf
+|           |       
+|           +---mp2025_01
+|           |       dlc.rpf
+|           |       
+|           +---mp2025_01_G9EC
+|           |       dlc.rpf
+|           |       
+|           +---mp2025_02
+|           |       dlc.rpf
+|           |       
+|           +---mp2025_02_g9ec
+|           |       dlc.rpf
+|           |       
+|           +---mp2026_01
+|           |       dlc.rpf
+|           |       
+|           +---mp2026_01_G9EC
+|           |       dlc.rpf
+|           |       
+|           +---mpairraces
+|           |       dlc.rpf
+|           |       
+|           +---mpapartment
+|           |       dlc.rpf
+|           |       
+|           +---mpassault
+|           |       dlc.rpf
+|           |       
+|           +---mpbattle
+|           |       dlc.rpf
+|           |       dlc1.rpf
+|           |       
+|           +---mpbiker
+|           |       dlc.rpf
+|           |       
+|           +---mpchristmas2
+|           |       dlc.rpf
+|           |       
+|           +---mpchristmas2017
+|           |       dlc.rpf
+|           |       
+|           +---mpchristmas2018
+|           |       dlc.rpf
+|           |       
+|           +---mpchristmas3
+|           |       dlc.rpf
+|           |       
+|           +---mpchristmas3_g9ec
+|           |       dlc.rpf
+|           |       
+|           +---mpexecutive
+|           |       dlc.rpf
+|           |       
+|           +---mpg9ec
+|           |       dlc.rpf
+|           |       
+|           +---mpgunrunning
+|           |       dlc.rpf
+|           |       
+|           +---mphalloween
+|           |       dlc.rpf
+|           |       
+|           +---mpheist
+|           |       dlc.rpf
+|           |       
+|           +---mpheist3
+|           |       dlc.rpf
+|           |       
+|           +---mpheist4
+|           |       dlc.rpf
+|           |       dlc1.rpf
+|           |       dlc2.rpf
+|           |       
+|           +---mpimportexport
+|           |       dlc.rpf
+|           |       
+|           +---mpjanuary2016
+|           |       dlc.rpf
+|           |       
+|           +---mplowrider
+|           |       dlc.rpf
+|           |       
+|           +---mplowrider2
+|           |       dlc.rpf
+|           |       
+|           +---mpluxe
+|           |       dlc.rpf
+|           |       
+|           +---mpluxe2
+|           |       dlc.rpf
+|           |       
+|           +---mppatchesng
+|           |       dlc.rpf
+|           |       
+|           +---mpreplay
+|           |       dlc.rpf
+|           |       
+|           +---mpsecurity
+|           |       dlc.rpf
+|           |       dlc1.rpf
+|           |       
+|           +---mpsmuggler
+|           |       dlc.rpf
+|           |       
+|           +---mpspecialraces
+|           |       dlc.rpf
+|           |       
+|           +---mpstunt
+|           |       dlc.rpf
+|           |       
+|           +---mpsum
+|           |       dlc.rpf
+|           |       
+|           +---mpsum2
+|           |       dlc.rpf
+|           |       
+|           +---mpSum2_G9EC
+|           |       dlc.rpf
+|           |       
+|           +---mptuner
+|           |       dlc.rpf
+|           |       dlc1.rpf
+|           |       
+|           +---mpvalentines2
+|           |       dlc.rpf
+|           |       
+|           +---mpvinewood
+|           |       dlc.rpf
+|           |       
+|           +---mpxmas_604490
+|           |       dlc.rpf
+|           |       
+|           +---patch2023_01
+|           |       dlc.rpf
+|           |       
+|           +---patch2023_01_g9ec
+|           |       dlc.rpf
+|           |       
+|           +---patch2023_02
+|           |       dlc.rpf
+|           |       
+|           +---patch2024_01
+|           |       dlc.rpf
+|           |       
+|           +---patch2024_01_g9ec
+|           |       dlc.rpf
+|           |       
+|           +---patch2024_02
+|           |       dlc.rpf
+|           |       
+|           +---patch2025_01
+|           |       dlc.rpf
+|           |       
+|           +---patch2025_02
+|           |       dlc.rpf
+|           |       
+|           +---patch2025_02_g9ec
+|           |       dlc.rpf
+|           |       
+|           +---patch2026_01
+|           |       dlc.rpf
+|           |       
+|           +---patchday10ng
+|           |       dlc.rpf
+|           |       
+|           +---patchday11ng
+|           |       dlc.rpf
+|           |       
+|           +---patchday12ng
+|           |       dlc.rpf
+|           |       
+|           +---patchday13ng
+|           |       dlc.rpf
+|           |       
+|           +---patchday14ng
+|           |       dlc.rpf
+|           |       
+|           +---patchday15ng
+|           |       dlc.rpf
+|           |       
+|           +---patchday16ng
+|           |       dlc.rpf
+|           |       
+|           +---patchday17ng
+|           |       dlc.rpf
+|           |       
+|           +---patchday18ng
+|           |       dlc.rpf
+|           |       
+|           +---patchday19ng
+|           |       dlc.rpf
+|           |       
+|           +---patchday1ng
+|           |       dlc.rpf
+|           |       
+|           +---patchday20ng
+|           |       dlc.rpf
+|           |       
+|           +---patchday21ng
+|           |       dlc.rpf
+|           |       
+|           +---patchday22ng
+|           |       dlc.rpf
+|           |       
+|           +---patchday23ng
+|           |       dlc.rpf
+|           |       
+|           +---patchday24ng
+|           |       dlc.rpf
+|           |       
+|           +---patchday25ng
+|           |       dlc.rpf
+|           |       
+|           +---patchday26ng
+|           |       dlc.rpf
+|           |       
+|           +---patchday27g9ecng
+|           |       dlc.rpf
+|           |       
+|           +---patchday27ng
+|           |       dlc.rpf
+|           |       
+|           +---patchday28g9ecng
+|           |       dlc.rpf
+|           |       
+|           +---patchday28ng
+|           |       dlc.rpf
+|           |       
+|           +---patchday2bng
+|           |       dlc.rpf
+|           |       
+|           +---patchday2ng
+|           |       dlc.rpf
+|           |       
+|           +---patchday3ng
+|           |       dlc.rpf
+|           |       
+|           +---patchday4ng
+|           |       dlc.rpf
+|           |       
+|           +---patchday5ng
+|           |       dlc.rpf
+|           |       
+|           +---patchday6ng
+|           |       dlc.rpf
+|           |       
+|           +---patchday7ng
+|           |       dlc.rpf
+|           |       
+|           +---patchday8ng
+|           |       dlc.rpf
+|           |       
+|           +---patchday9ng
+|           |       dlc.rpf
+|           |       
+|           \---patchdayg9ecng
+|                   dlc.rpf
+|                   
+\---x64
+    |   metadata.dat
+    |   
+    +---audio
+    |   |   audio_rel.rpf
+    |   |   occlusion.rpf
+    |   |   
+    |   \---sfx
+    |           ANIMALS.rpf
+    |           ANIMALS_FAR.rpf
+    |           ANIMALS_NEAR.rpf
+    |           CUTSCENE_MASTERED_ONLY.rpf
+    |           DLC_GTAO.rpf
+    |           INTERACTIVE_MUSIC.rpf
+    |           ONESHOT_AMBIENCE.rpf
+    |           PAIN.rpf
+    |           POLICE_SCANNER.rpf
+    |           PROLOGUE.rpf
+    |           RADIO_01_CLASS_ROCK.rpf
+    |           RADIO_02_POP.rpf
+    |           RADIO_03_HIPHOP_NEW.rpf
+    |           RADIO_04_PUNK.rpf
+    |           RADIO_05_TALK_01.rpf
+    |           RADIO_06_COUNTRY.rpf
+    |           RADIO_07_DANCE_01.rpf
+    |           RADIO_08_MEXICAN.rpf
+    |           RADIO_09_HIPHOP_OLD.rpf
+    |           RADIO_11_TALK_02.rpf
+    |           RADIO_12_REGGAE.rpf
+    |           RADIO_13_JAZZ.rpf
+    |           RADIO_14_DANCE_02.rpf
+    |           RADIO_15_MOTOWN.rpf
+    |           RADIO_16_SILVERLAKE.rpf
+    |           RADIO_17_FUNK.rpf
+    |           RADIO_18_90S_ROCK.rpf
+    |           RADIO_ADVERTS.rpf
+    |           RADIO_NEWS.rpf
+    |           RESIDENT.rpf
+    |           SCRIPT.rpf
+    |           SS_AC.rpf
+    |           SS_DE.rpf
+    |           SS_FF.rpf
+    |           SS_GM.rpf
+    |           SS_NP.rpf
+    |           SS_QR.rpf
+    |           SS_ST.rpf
+    |           SS_UZ.rpf
+    |           STREAMED_AMBIENCE.rpf
+    |           STREAMED_VEHICLES.rpf
+    |           STREAMED_VEHICLES_GRANULAR.rpf
+    |           STREAMED_VEHICLES_GRANULAR_NPC.rpf
+    |           STREAMED_VEHICLES_LOW_LATENCY.rpf
+    |           STREAMS.rpf
+    |           S_FULL_AMB_F.rpf
+    |           S_FULL_AMB_M.rpf
+    |           S_FULL_GAN.rpf
+    |           S_FULL_SER.rpf
+    |           S_MINI_AMB.rpf
+    |           S_MINI_GAN.rpf
+    |           S_MINI_SER.rpf
+    |           S_MISC.rpf
+    |           WEAPONS_PLAYER.rpf
+    |           
+    \---data
+        \---errorcodes
+                american.txt
+                chinese.txt
+                chinesesimp.txt
+                french.txt
+                german.txt
+                italian.txt
+                japanese.txt
+                korean.txt
+                mexican.txt
+                polish.txt
+                portuguese.txt
+                russian.txt
+                spanish.txt
+                
+
