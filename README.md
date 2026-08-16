@@ -1,15 +1,13 @@
-<div align="center">
-  <strong style="font-size: 2em;">Grand Theft Auto V Enhanced File Scanner</strong><br>
-  <span style="font-size: 1em; font-weight: normal;">GTA5增强版文件扫描仪</span>
-  <br><br>
+<h1 align="center">Grand Theft Auto V Enhanced File Scanner</h1>
+<h3 align="center">GTA5增强版文件扫描仪</h3>
+<p align="center">
   <img src="https://img.shields.io/badge/Python-3.7%2B-blue?logo=python&logoColor=white" alt="Python">
-  <a href="#"><img src="https://img.shields.io/badge/Platform-Windows-win.svg" alt="Platform"></a>
+  <img src="https://img.shields.io/badge/Platform-Windows-win.svg" alt="Platform">
   <img src="https://img.shields.io/badge/License-MIT-green" alt="License">
-</div>
+</p>
 
-
-### 通过对比纯净文件清单，快速检测并清除 GTA V Enhanced 游戏目录下的 Mod、外挂、残留文件及高风险项，助你安全进入线上模式
-
+> [!NOTE]
+> 通过对比纯净文件清单，快速检测并清除 GTA V Enhanced 游戏目录下的 Mod、外挂、残留文件及高风险项，助你安全进入线上模式
 
 ## ✨ 主要功能
 
@@ -44,7 +42,7 @@ python GTA5EE-fscan.py
 直接双击 “GTA5EE-fscan.py” 运行
 ```
 
-> [!IMPORTANT]
+> [!TIP]
 > ### 自行创建 `GTA-Directory.txt` 目录清单
 >
 > 1.打开GTA5增强版目录
