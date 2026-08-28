@@ -519,10 +519,8 @@ def main():
             info("再见！")
             break
 
-        print(choice)
-
         if choice == "1":
-            print()
+            clear_screen()
             info("正在解析官方干净列表...")
             official = parse_official_list_v2(DIR_LIST_FILE)
             if not official:
@@ -550,7 +548,7 @@ def main():
             getch()
 
         elif choice == "2":
-            print()
+            clear_screen()
             info("重新设定路径：")
             new_path = ask_gta_path()
             save_gta_path(new_path)
@@ -559,11 +557,13 @@ def main():
             getch()
 
         elif choice == "3":
+            clear_screen()
             open_file(DIR_LIST_FILE)
             cprint("按任意键返回菜单...", Color.DIM)
             getch()
 
         elif choice == "4":
+            clear_screen()
             if gta_path and gta_path.exists():
                 open_folder(gta_path)
             else:
@@ -572,13 +572,14 @@ def main():
             getch()
 
         elif choice == "5":
+            clear_screen()
             webbrowser.open("https://github.com/NeetheCheeBao/GTA5EE-FS")
             ok("已在浏览器打开更新页面。")
             cprint("按任意键返回菜单...", Color.DIM)
             getch()
 
         elif choice in ("0", "q", "Q", "\x03"):
-            print()
+            clear_screen()
             cprint("再见！祝你游戏愉快，远离封禁。", Color.LGREEN, bold=True)
             break
 
