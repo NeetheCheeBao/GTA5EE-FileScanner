@@ -26,11 +26,11 @@
 
 ## ⬇️ 下载项目
 ```bash
-gh repo clone NeetheCheeBao/GTA5EE-FS
+gh repo clone NeetheCheeBao/GTA5EE-FileScanner
 ```
 
 ```bash
-git clone https://github.com/NeetheCheeBao/GTA5EE-FS.git
+git clone https://github.com/NeetheCheeBao/GTA5EE-FileScanner.git
 ```
 
 ## 🚀 运行脚本

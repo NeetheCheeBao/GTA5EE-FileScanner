@@ -42,7 +42,7 @@ if ($env:GTAFS_SELF -and (Test-Path -LiteralPath $env:GTAFS_SELF)) {
 $script:DirListFile = Join-Path $script:ScriptDir 'GTA-Directory.txt'
 $script:PathIniFile = Join-Path $script:ScriptDir 'GTA-Path.ini'
 $script:LogFile     = Join-Path $script:ScriptDir 'deleted_files_log.txt'
-$script:UpdateUrl   = 'https://github.com/NeetheCheeBao/GTA5EE-FS'
+$script:UpdateUrl   = 'https://github.com/NeetheCheeBao/GTA5EE-FileScanner'
 $script:Utf8NoBom   = New-Object -TypeName System.Text.UTF8Encoding -ArgumentList @($false)
 
 # 高风险关键词
