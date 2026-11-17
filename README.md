@@ -1,7 +1,7 @@
 <h1 align="center">Grand Theft Auto V Enhanced File Scanner</h1>
 <h3 align="center">GTA5增强版文件扫描仪</h3>
 <p align="center">
-  <img src="https://img.shields.io/badge/Python-3.7%2B-blue?logo=python&logoColor=white" alt="Python">
+  <img src="https://img.shields.io/badge/PowerShell-5.1%2B-5391FE?logo=shell&logoColor=white" alt="PowerShell">
   <img src="https://img.shields.io/badge/Platform-Windows-win.svg" alt="Platform">
   <img src="https://img.shields.io/badge/License-MIT-green" alt="License">
 </p>
@@ -15,11 +15,14 @@
 - 🚨 **风险识别**：智能识别常见的 `.asi`、`scripthook`、`menyoo` 等高风险文件。
 - 🗑️ **一键清理**：支持删除所有多余文件或一键清理高风险项，自动记录删除日志（`deleted_files_log.txt`）。
 
-![img](/screenshot/demo0.png)
-![img](/screenshot/demo1.png)
+## 📷 演示
+
+| 主界面 | 扫描结果 |
+| --- | --- |
+| ![demo](screenshot/demo1.png) | ![demo](screenshot/demo2.png) |
 
 ## 📚 环境依赖
-- **Python 3.10+**
+- **Windows 10 / 11**（系统自带 PowerShell 5.1，开箱即用）
 
 ## ⬇️ 下载项目
 ```bash
@@ -32,15 +35,18 @@ git clone https://github.com/NeetheCheeBao/GTA5EE-FS.git
 
 ## 🚀 运行脚本
 
+1. 方式1
+
+双击 `GTA5EE-FileScanner.bat` 即可
+
+2. 方式2
+
 ```bash
-python GTA5EE-fscan.py
+.\GTA5EE-FileScanner.bat
 ```
 
-或者
-
-```text
-直接双击 “GTA5EE-fscan.py” 运行
-```
+> [!NOTE]
+> 首次运行会让你填写 GTA V Enhanced 的安装目录，之后会记录在 `GTA-Path.ini` 中。
 
 > [!TIP]
 > ### 自行创建 `GTA-Directory.txt` 目录清单
@@ -55,7 +61,7 @@ python GTA5EE-fscan.py
 > (echo Grand Theft Auto V Enhanced & tree /a /f | more +3 | findstr /v /i "GTA-Directory.txt") > GTA-Directory.txt
 > ```
 >
-> 4.将 `GTA-Directory.txt` **剪切** 到 `GTA5EE-fscan.py` 同级目录
+> 4.将 `GTA-Directory.txt` **剪切** 到 `GTA5EE-FileScanner.bat` 同级目录
 
 ## ⚖️ 许可证
 
